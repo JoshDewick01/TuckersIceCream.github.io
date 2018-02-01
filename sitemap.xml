@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://tuckersicecream.co.uk/index.html</loc>
+    <lastmod>2018-02-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://tuckersicecream.co.uk/images/tic%20logo-transparant1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tuckersicecream.co.uk/images/tic%20logo-transparant1_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tuckersicecream.co.uk/images/pasted%20image%20458x229.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tuckersicecream.co.uk/images/pasted%20image%20458x2292.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://tuckersicecream.co.uk/wholesale.html</loc>
+    <lastmod>2018-02-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://tuckersicecream.co.uk/images/tic%20logo-transparant1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tuckersicecream.co.uk/images/tic%20logo-transparant1_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tuckersicecream.co.uk/images/mvimg_20171128_131315.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tuckersicecream.co.uk/images/mvimg_20171128_131315_2x.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
